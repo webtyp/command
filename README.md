@@ -4,7 +4,7 @@
 Process execution helpers over `os/exec`. **No shell, no injection. Zero dependencies.**
 
 ```go
-import "github.com/tinywasm/command"
+import "webtyp.com/command"
 ```
 
 ## The guarantee

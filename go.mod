@@ -1,3 +1,3 @@
-module github.com/tinywasm/command
+module webtyp.com/command
 
 go 1.25.2

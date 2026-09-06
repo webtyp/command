@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tinywasm/command"
+	"webtyp.com/command"
 )
 
 func TestRun(t *testing.T) {

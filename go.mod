@@ -132,8 +132,6 @@ replace webtyp.com/postgres => ../postgres
 
 replace webtyp.com/rbac => ../rbac
 
-replace webtyp.com/router => ../router
-
 replace webtyp.com/screenshot => ../screenshot
 
 replace webtyp.com/server => ../server

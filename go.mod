@@ -20,8 +20,6 @@ replace webtyp.com/chart => ../chart
 
 replace webtyp.com/color => ../color
 
-replace webtyp.com/components => ../components
-
 replace webtyp.com/context => ../context
 
 replace webtyp.com/crudp => ../crudp

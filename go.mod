@@ -42,8 +42,6 @@ replace webtyp.com/depfind => ../depfind
 
 replace webtyp.com/deploy => ../deploy
 
-replace webtyp.com/devbrowser => ../devbrowser
-
 replace webtyp.com/devskills => ../devskills
 
 replace webtyp.com/devtui => ../devtui

@@ -134,8 +134,6 @@ replace webtyp.com/rbac => ../rbac
 
 replace webtyp.com/screenshot => ../screenshot
 
-replace webtyp.com/server => ../server
-
 replace webtyp.com/sitec => ../sitec
 
 replace webtyp.com/sitepub => ../sitepub

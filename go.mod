@@ -102,8 +102,6 @@ replace webtyp.com/keyring => ../keyring
 
 replace webtyp.com/kvdb => ../kvdb
 
-replace webtyp.com/layout => ../layout
-
 replace webtyp.com/markdown => ../markdown
 
 replace webtyp.com/model => ../model

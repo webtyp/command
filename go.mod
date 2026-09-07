@@ -74,8 +74,6 @@ replace webtyp.com/git => ../git
 
 replace webtyp.com/gobuild => ../gobuild
 
-replace webtyp.com/goflare => ../goflare
-
 replace webtyp.com/goflare-demo => ../goflare-demo
 
 replace webtyp.com/goinstall => ../goinstall

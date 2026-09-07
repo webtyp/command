@@ -112,8 +112,6 @@ replace webtyp.com/layout => ../layout
 
 replace webtyp.com/markdown => ../markdown
 
-replace webtyp.com/mcp => ../mcp
-
 replace webtyp.com/model => ../model
 
 replace webtyp.com/modfind => ../modfind

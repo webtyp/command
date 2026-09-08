@@ -52,8 +52,6 @@ replace webtyp.com/filetype => ../filetype
 
 replace webtyp.com/font => ../font
 
-replace webtyp.com/form => ../form
-
 replace webtyp.com/ghaction => ../ghaction
 
 replace webtyp.com/git => ../git

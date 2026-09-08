@@ -44,8 +44,6 @@ replace webtyp.com/devtui => ../devtui
 
 replace webtyp.com/devwatch => ../devwatch
 
-replace webtyp.com/dom => ../dom
-
 replace webtyp.com/env => ../env
 
 replace webtyp.com/fetch => ../fetch

@@ -24,8 +24,6 @@ replace webtyp.com/crudp => ../crudp
 
 replace webtyp.com/crypto => ../crypto
 
-replace webtyp.com/css => ../css
-
 replace webtyp.com/date => ../date
 
 replace webtyp.com/dbus => ../dbus

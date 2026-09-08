@@ -124,8 +124,6 @@ replace webtyp.com/sse => ../sse
 
 replace webtyp.com/storage => ../storage
 
-replace webtyp.com/svg => ../svg
-
 replace webtyp.com/time => ../time
 
 replace webtyp.com/tinygo => ../tinygo

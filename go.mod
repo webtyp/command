@@ -48,8 +48,6 @@ replace webtyp.com/dom => ../dom
 
 replace webtyp.com/env => ../env
 
-replace webtyp.com/events => ../events
-
 replace webtyp.com/fetch => ../fetch
 
 replace webtyp.com/filetype => ../filetype

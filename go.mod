@@ -4,8 +4,6 @@ go 1.25.2
 
 replace webtyp.com/app => ../app
 
-replace webtyp.com/await => ../await
-
 replace webtyp.com/base64 => ../base64
 
 replace webtyp.com/binary => ../binary

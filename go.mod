@@ -138,6 +138,4 @@ replace webtyp.com/wasmbrowsertest => ../wasmbrowsertest
 
 replace webtyp.com/webauthn => ../webauthn
 
-replace webtyp.com/widget => ../widget
-
 replace webtyp.com/wizard => ../wizard

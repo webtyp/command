@@ -80,8 +80,6 @@ replace webtyp.com/kvdb => ../kvdb
 
 replace webtyp.com/markdown => ../markdown
 
-replace webtyp.com/model => ../model
-
 replace webtyp.com/modfind => ../modfind
 
 replace webtyp.com/ormc => ../ormc

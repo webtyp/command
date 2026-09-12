@@ -84,8 +84,6 @@ replace webtyp.com/modfind => ../modfind
 
 replace webtyp.com/pdf => ../pdf
 
-replace webtyp.com/rbac => ../rbac
-
 replace webtyp.com/screenshot => ../screenshot
 
 replace webtyp.com/sitepub => ../sitepub

@@ -82,8 +82,6 @@ replace webtyp.com/markdown => ../markdown
 
 replace webtyp.com/modfind => ../modfind
 
-replace webtyp.com/ormc => ../ormc
-
 replace webtyp.com/pdf => ../pdf
 
 replace webtyp.com/rbac => ../rbac

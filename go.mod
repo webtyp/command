@@ -100,8 +100,6 @@ replace webtyp.com/update => ../update
 
 replace webtyp.com/user => ../user
 
-replace webtyp.com/view => ../view
-
 replace webtyp.com/wasmbrowsertest => ../wasmbrowsertest
 
 replace webtyp.com/webauthn => ../webauthn

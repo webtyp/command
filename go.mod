@@ -36,8 +36,6 @@ replace webtyp.com/deploy => ../deploy
 
 replace webtyp.com/devtui => ../devtui
 
-replace webtyp.com/devwatch => ../devwatch
-
 replace webtyp.com/fetch => ../fetch
 
 replace webtyp.com/filetype => ../filetype

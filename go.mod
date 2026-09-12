@@ -98,8 +98,6 @@ replace webtyp.com/screenshot => ../screenshot
 
 replace webtyp.com/sitepub => ../sitepub
 
-replace webtyp.com/sqlite => ../sqlite
-
 replace webtyp.com/sqlmcp => ../sqlmcp
 
 replace webtyp.com/sqlt => ../sqlt

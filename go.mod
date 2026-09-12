@@ -90,8 +90,6 @@ replace webtyp.com/sitepub => ../sitepub
 
 replace webtyp.com/sqlt => ../sqlt
 
-replace webtyp.com/sse => ../sse
-
 replace webtyp.com/time => ../time
 
 replace webtyp.com/tinygo => ../tinygo

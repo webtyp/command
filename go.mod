@@ -54,8 +54,6 @@ replace webtyp.com/goinstall => ../goinstall
 
 replace webtyp.com/gorelease => ../gorelease
 
-replace webtyp.com/gorun => ../gorun
-
 replace webtyp.com/html => ../html
 
 replace webtyp.com/icons => ../icons

@@ -84,8 +84,6 @@ replace webtyp.com/model => ../model
 
 replace webtyp.com/modfind => ../modfind
 
-replace webtyp.com/orm => ../orm
-
 replace webtyp.com/ormc => ../ormc
 
 replace webtyp.com/pdf => ../pdf

@@ -90,8 +90,6 @@ replace webtyp.com/ormc => ../ormc
 
 replace webtyp.com/pdf => ../pdf
 
-replace webtyp.com/postgres => ../postgres
-
 replace webtyp.com/rbac => ../rbac
 
 replace webtyp.com/screenshot => ../screenshot

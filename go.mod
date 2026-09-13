@@ -58,8 +58,6 @@ replace webtyp.com/imagemin => ../imagemin
 
 replace webtyp.com/indexdb => ../indexdb
 
-replace webtyp.com/input => ../input
-
 replace webtyp.com/installer => ../installer
 
 replace webtyp.com/js => ../js

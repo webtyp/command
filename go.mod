@@ -70,8 +70,6 @@ replace webtyp.com/jwt => ../jwt
 
 replace webtyp.com/keyring => ../keyring
 
-replace webtyp.com/kvdb => ../kvdb
-
 replace webtyp.com/markdown => ../markdown
 
 replace webtyp.com/modfind => ../modfind
